@@ -12,3 +12,14 @@ You should start with a regular binary tree, using the code from the Binary Tree
 * Document (but do not leave comments)
 * Do exactly what is asked. There will be no points for *Above and Beyond* this assignment.
 * List your group's members in the header of the main file.
+
+# Group Members
+Team members:
+
+- Augusto Fonseca - 225984@students.hertie-school.org
+
+- Danial Riaz - 201678@students.hertie-school.org
+
+- Fernando Corral - 222836@students.hertie-school.org
+
+- Rodrigo Dornelles - 228446@students.hertie-school.org
